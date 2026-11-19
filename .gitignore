@@ -1,0 +1,3 @@
+# Ignore raw input data, but keep the directory in the repository.
+/data/raw/*
+!/data/raw/.gitkeep
